@@ -1,0 +1,9 @@
+# Unity Project Defaults
+* text=auto eol=lf
+# Force Unity's internal asset files to use LF (Linux/Mac style) for consistency
+*.meta text eol=lf
+*.asset text eol=lf
+*.unity text eol=lf
+# Ensure binary files (like SVGs mentioned in your error) are treated as binary
+# to prevent Git from touching their contents.
+*.svg binary
