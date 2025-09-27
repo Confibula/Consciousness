@@ -16,9 +16,10 @@ Logic has been implemented under Assets/Scripts.
 
 Terrain Sample Assets have been imported.
 
-TODOs: 	We need to implement local lightweight inference models like CNNs to understand the visual environment context
+TODOs: 	
+	We need to implement local lightweight inference models like CNNs to understand the visual environment context
 
-		We need to implement jump and move camera services.
+	We need to implement jump and move camera services.
 		
-		We need to use terrain assets to build a basic terrain.
+	We need to use terrain assets to build a basic terrain.
 
